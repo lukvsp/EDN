@@ -1,2 +1,2 @@
 # EDN
-Repositório para atividadesde Programação da Escola da Nuvem
+Repositório para atividades de Programação da Escola da Nuvem
